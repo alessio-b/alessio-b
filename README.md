@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Alessio
 - 👀 I’m interested in literally Everything
-- 📚 I’m currently studying Computer Engineering @ [TBZ](https://tbz.ch)
-- 📫 How to reach me alessio.bill@edu.tbz.ch
